@@ -56,7 +56,8 @@ Launch Windows EC2 instance and connect using RDP.
 
 ![387316702-1690bd8a-bf80-40a3-94f0-5cb249834f79](https://github.com/user-attachments/assets/da00ed7b-24e2-4140-bebe-c5d430c60b08)
 
- ![Uploading 387316791-68bf1fc0-31da-4fe3-965c-93b5eeede6db.png…]()
+![387316791-68bf1fc0-31da-4fe3-965c-93b5eeede6db](https://github.com/user-attachments/assets/10f49b15-1259-42a9-ac84-ba6db241ad85)
+
 
 ## RESULT
  
