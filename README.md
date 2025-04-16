@@ -6,7 +6,7 @@
 
 ## ALGORITHM
  ### Steps 1:
- # Login to AWS Management Console:
+ ## Login to AWS Management Console:
      1.Open the AWS Management Console.
      2.Navigate to the S3 service for bucket creation and EC2 for instance setup
  ### Steps 2:
